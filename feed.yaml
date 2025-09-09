@@ -6,7 +6,8 @@ image: /images/artwork.jpg
 language: en-us
 category: Technology
 format: audio/mpeg
-link: # Link to hosted site
+link: 'https://varona413.github.io/practical-github-actions-LIL' # Link to live site
+# http://raybo.org/podcast-test'
 item:
   - title: EP01-What's Happening in 2023
     description: Ray Villalobos and Content Managers Natalie Pao and Simon St. Laurent discuss what 2023 holds for the future in technology.
