@@ -5,9 +5,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v5 # https://github.com/actions/checkout
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v6 # https://github.com/actions/setup-python
         with:
           python-version: '3.10'
       - name: Install Dependencies
